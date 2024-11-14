@@ -4,7 +4,7 @@ import requests
 import os
 
 # VirusTotal API Key (replace with your own API key)
-VIRUSTOTAL_API_KEY = "06672014f7b6d85aa2f2fd75ddc783b34621708d8fd5c0944901066308cf292e"
+VIRUSTOTAL_API_KEY = "-your API Key-"
 
 # Log file for captured packets
 LOG_FILE = "captured_packets.log"
