@@ -8,6 +8,9 @@ VirusTotal Malware Scanning: Checks files for malware with the VirusTotal API.
 Bulk File Analysis: Analyze all files in a directory for potential threats.
 (You might need scapy and requests if they’re not already installed)
 
+## 📸 Output
+![Light Tracking System Output](images/virustotal.png)
+
 # 🛡️ How It Works
 Packet Sniffing: Captures raw packets and looks inside for juicy details.
 Sensitive Info Detection: Uses regex magic to identify possible sensitive data like usernames, passwords, emails, and credit card numbers.
